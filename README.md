@@ -1,6 +1,6 @@
 # CIFAR10 Image Classification
 
-![CIFAR10 Image](link_a_la_imagen_o_logo_del_proyecto)
+![CIFAR10 Image](https://www.cs.toronto.edu/~kriz/cifar.html)
 
 ## Overview
 
