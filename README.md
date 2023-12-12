@@ -46,4 +46,4 @@ To explore CIFAR10 Image Classification and run the models locally, follow these
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/CIFAR10-image-classification.git
+   git clone https://github.com/Gerpa99/CIFAR10-image-classification.git
