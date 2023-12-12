@@ -1,7 +1,5 @@
 # CIFAR10 Image Classification
 
-![CIFAR10 Image](https://www.cs.toronto.edu/~kriz/cifar.html)
-
 ## Overview
 
 CIFAR10 Image Classification is a project that explores the CIFAR-10 dataset, focusing on the classification of images using deep learning models. LeNet and DenseNet architectures are employed for the classification task, with an emphasis on image augmentation techniques and model evaluation.
